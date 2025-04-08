@@ -3,7 +3,7 @@
 
 Created an interactive sales trend dashboard for the Pizza Sales Report project.
 
-Utilized SQL queries to extract valuable insights from the data.
+Utilized Power Bi to extract valuable insights from the data.
 
 Applied data manipulation techniques, including DAX measures, to enhance data analysis and reporting.
 
