@@ -1,60 +1,147 @@
-# Pizza_Sales_Analysis__PowerBI_Project
- 
- **project overview** 
- 
- Pizza Sales Analysis using Power Bi 🍕pizza data to uncover the secret sauce behind top-selling pizzas, peak order times, and customer favorites. 
 
-Created an interactive sales trend dashboard for the Pizza Sales Report project.
+# 🍕 Pizza Sales Analysis Dashboard using Power BI
 
-Utilized Power Bi to extract valuable insights from the data.
+### 📊 Sales Performance | Order Trends | Customer Preferences
 
-Applied data manipulation techniques, including DAX measures, to enhance data analysis and reporting.
+An interactive Power BI dashboard designed to analyse pizza sales performance, customer preferences, order trends, and product popularity. This project uses KPIs, DAX measures, and interactive visualisations to identify top-selling pizza categories, popular sizes, and peak ordering periods.
 
-Designed an interactive dashboard that features Funnel charts, KPI cards, Bar charts, and more, facilitating a comprehensive view of sales trends.
+---
 
-**insights from the Analysis**
+## 📌 Project Overview
 
-**Top Performing Pizza Category**
-••Classic pizzas contribute the most to total sales and orders, making up 26.91% of sales and having the highest number of pizzas sold (14,888).
+The Pizza Sales Analysis Dashboard provides a comprehensive analysis of pizza sales data to understand revenue performance, customer buying patterns, and product demand.
 
-**Most Popular Pizza Size**
-••The Large size dominates sales with 45.89% of the total, far ahead of other sizes.
+Using Microsoft Power BI, I transformed pizza sales data into meaningful business insights through data cleaning, DAX calculations, and interactive visualisations.
 
-••Medium size comes next with 30.49%, while X-Large contributes the least (1.72%).
+The dashboard helps identify top-performing pizza categories, popular pizza sizes, busiest ordering days, and monthly sales trends to support data-driven business decisions.
 
-**Busiest Days for Orders**
-••Orders peak on weekends, especially Friday and Saturday evenings.
+---
 
-••Friday sees the highest daily orders at 3.5K, followed by Saturday (3.2K) and Thursday (3.2K).
+## 🎯 Project Objectives
 
-**Highest Sales Months**
+- Analyse overall pizza sales and revenue performance.
+- Identify the best-selling pizza categories and sizes.
+- Understand daily, weekly, and monthly order trends.
+- Evaluate customer purchasing patterns.
+- Calculate important KPIs using DAX measures.
+- Build an interactive dashboard for sales reporting and decision-making.
 
-••The most orders are recorded in July (1935), followed by May (1853) and January (1845).
+---
 
-••September and October are the lowest-performing months.
+## 📊 Key Performance Indicators (KPIs)
 
-**Total Sales Performance**
+| KPI | Value |
+|---|---:|
+| 💰 Total Revenue | $817.86K |
+| 🧾 Average Order Value | $38.31 |
+| 📦 Total Orders | 21,350 |
+| 🍕 Total Pizzas Sold | 49,574 |
+| 🛒 Average Pizzas per Order | 2.32 |
 
-Total Revenue: $817.86K
+*Note: KPI values are based on the figures provided in the project description. Verify them against your actual dashboard before publishing.*
 
-Average Order Value: $38.31
+---
 
-Total Orders: 21,350
+## ✨ Key Features
 
-Total Pizzas Sold: 49,574
+### 💰 Sales Performance Analysis
+- Analyse total revenue and average order value.
+- Track total orders and pizzas sold.
+- Compare sales performance across categories and sizes.
+- Identify key contributors to overall revenue.
 
-On average, each order includes 2.32 pizzas.
+### 🍕 Pizza Category Analysis
+- Compare Classic, Supreme, Veggie, and Chicken categories.
+- Identify the highest-selling category.
+- Analyse category-wise pizza quantities and sales contributions.
 
-**Category-Wise Pizza Sales**
+### 📏 Pizza Size Analysis
+- Compare sales across Large, Medium, Small, and other available sizes.
+- Identify the most popular pizza size.
+- Understand customer preferences by product size.
 
-••After Classic, the next top-selling categories are:
+### 📅 Order Trend Analysis
+- Analyse daily order patterns.
+- Identify peak ordering days and times.
+- Compare monthly order volumes.
+- Identify high- and low-performing months.
 
-Supreme: 11,987 pizzas (25.46% of sales)
+### 📈 Interactive Visualizations
+- KPI cards for key metrics.
+- Bar charts for category and size comparisons.
+- Funnel charts for sales analysis.
+- Daily and monthly trend charts.
+- Interactive slicers and filters.
 
-Veggie: 11,649 pizzas (23.68%)
+---
 
-Chicken: 11,050 pizzas (23.96%)
+## 🔍 Key Insights & Conclusions
 
-••Despite close percentages, Chicken has the lowest total pizzas sold.
+### 1. Top-Performing Pizza Category
+- **Classic pizzas** contribute 26.91% of sales and lead in the number of pizzas sold, with 14,888 pizzas.
+- Supreme pizzas rank next, with 11,987 pizzas sold.
+- Veggie pizzas account for 11,649 pizzas sold.
+- Chicken pizzas account for 11,050 pizzas sold.
+
+### 2. Most Popular Pizza Size
+- **Large pizzas** dominate, accounting for 45.89% of total sales.
+- Medium pizzas contribute 30.49%.
+- X-Large pizzas have the smallest reported contribution, at 1.72%.
+
+### 3. Busiest Days for Orders
+- Friday and Saturday are reported as busy ordering days, particularly during the evening.
+- Friday records approximately 3.5K orders.
+- Saturday and Thursday each record approximately 3.2K orders.
+
+### 4. Highest and Lowest Performing Months
+- July records the highest monthly order count, with 1,935 orders.
+- May follows with 1,853 orders.
+- January records 1,845 orders.
+- September and October are identified as lower-performing months.
+
+### 5. Overall Sales Performance
+- Total revenue reaches approximately $817.86K.
+- The average order value is $38.31.
+- The dashboard records 21,350 orders and 49,574 pizzas sold.
+- Each order contains approximately 2.32 pizzas on average.
+
+*These insights reflect the figures supplied in the project description. Validate the percentages, category rankings, and date-based findings against the underlying dataset before using them in a professional presentation.*
+
+---
+---
+
+## 📈 Dashboard Components
+
+The dashboard covers the following analytical areas:
+
+1. **Sales Overview** — Revenue, average order value, orders, and pizzas sold.
+2. **Category Analysis** — Performance comparison across pizza categories.
+3. **Size Analysis** — Sales distribution by pizza size.
+4. **Daily Order Trends** — Comparison of orders by day of the week.
+5. **Monthly Order Trends** — Identification of peak and low-performing months.
+6. **Interactive Filtering** — Explore the report using available filters and slicers.
+
+---
+
+## 👨‍💻 Author
+
+**Aravind K**  
+Data Analyst | MIS Reporting | Power BI Developer
+
+📍 Bengaluru, India
+
+- 📧 Email: [aravindaat656@gmail.com](mailto:aravindaat656@gmail.com)
+-
+
+---
+
+## ⭐ Project Summary
+
+The Pizza Sales Analysis Dashboard demonstrates how Power BI can turn raw sales data into actionable business insights. Through KPI tracking, DAX calculations, and interactive visualisations, the project highlights product performance, customer preferences, and order trends.
+
+This project showcases practical skills in data analytics, business intelligence, and Power BI dashboard development.
+
+⭐ If you find this project useful, feel free to explore the repository!
+
 
 
